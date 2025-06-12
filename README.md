@@ -1,19 +1,22 @@
-# Introduction to C Programming (COP3223)  
-## University of Central Florida - Spring 2022  
+# COP3223 – Introduction to C Programming
 
-This repository contains my homework assignments and projects for **COP3223 - Introduction to C Programming** at the University of Central Florida during **Spring 2022**.  
+## University of Central Florida · Spring 2022
 
-**Taken with Professor Hatim Boustique**  
+This repository contains homework assignments, projects, and supporting materials completed for **COP3223: Introduction to C Programming** at the University of Central Florida during **Spring 2022**.
 
-## Contents  
+**Instructor: Professor Hatim Boustique**
 
-- Homework assignments (`HW1.c`, `HW2.c`, etc.)  
-- Projects (`Proj1.c`, `Proj2.c`, etc.)  
-- Additional notes and test files  
+## 📁 Contents
 
-## Usage  
-To compile and run any of the C programs, use the following commands:  
+* Homework Assignments (`HW1.c`, `HW2.c`, etc.)
+* Programming Projects (`Proj1.c`, `Proj2.c`, etc.)
+* Supplementary Notes and Test Files
+
+## 🚀 How to Compile & Run
+
+To compile and execute a program, use the following terminal commands:
 
 ```bash
 gcc filename.c -o output
 ./output
+```
